@@ -1,0 +1,20 @@
+{
+    "character": "Black Widow",
+    "age": "undisclosed",
+    "realName": "Natasha Romanoff",
+    "weapon": "guns",
+    "quote": "Thank you for your cooperation!",
+    "hairColor": "brunette",
+    "allies": [
+        "Captain America",
+        "Thor",
+        "Iron Man",
+        "Hawkeyes",
+        "Black Panther",
+        "Captain Marvel",
+        "Nick Fury",
+        "Falcons",
+        "Spider Man"
+    ]
+
+}
